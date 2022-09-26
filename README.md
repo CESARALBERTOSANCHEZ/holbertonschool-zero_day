@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+# and only for this task
